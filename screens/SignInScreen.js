@@ -19,8 +19,8 @@ export default class SignInScreen extends React.Component {
     this.state = {
       loggingIn: false,
       hasError: false,
-      username: '5409088829',
-      password: 'test1234'
+      username: '',
+      password: ''
     };
   }
 
