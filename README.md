@@ -89,13 +89,10 @@ After this the Load is placed in the ‘My Jobs’ page of the carrier app, and 
 
 #### 1) Clone & Install Dependencies
 
-- 1.1) `git clone https://github.com/funnyjerry/https://github.com/funnyjerry/react-native-smoking-app.git`
-- 1.2) `cd https://github.com/funnyjerry/react-native-smoking-app` - cd into your newly created project directory.
+- 1.1) `git clone https://github.com/funnyjerry/react-native-expo-loadpaneldriver.git`
+- 1.2) `cd react-native-expo-loadpaneldriver` - cd into your newly created project directory.
 - 1.3) Install NPM packages with `yarn install`
         **Note:** NPM has issues with React Native so `yarn` is recommended over `npm`.
-- 1.4) **[iOS]** `cd ios` and run `pod install` - if you don't have CocoaPods you can follow [these instructions](https://guides.cocoapods.org/using/getting-started.html#getting-started) to install it.
-- 1.5) **[Android]** If you haven't already generated a `debug.keystore` file you will need to complete this step from within the `/android/app` folder. Run `keytool -genkey -v -keystore debug.keystore -storepass android -alias androiddebugkey -keypass android -keyalg RSA -keysize 2048 -validity 10000`
-
 #### 2) Start your app
 
 - 2.1) **[EXPO]** Build and run the iOS app, run `expo run-ios` (to run on simulator) or `expo --device` (to run on real device) from the root of your project. The first build will take some time.
@@ -106,8 +103,6 @@ After this the Load is placed in the ‘My Jobs’ page of the carrier app, and 
   <img src="https://ionicframework.com/docs/assets/icons/logo-react-icon.png" alt="RN" height="100" width="100">
   <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-512.png" alt="Firebase" height="100" width="100">
   <img src="https://icon-library.net/images/png-map-icon/png-map-icon-26.jpg" alt="Map" height="100" width="100">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/facebook-logo-2019-1597680-1350125.png" alt="Facebook" height="100" width="100">
-
   <br>
 </h1>
 
@@ -115,11 +110,9 @@ After this the Load is placed in the ‘My Jobs’ page of the carrier app, and 
 -   [Expo](https://github.com/expo/expo)
 -   [Redux](https://github.com/reduxjs/react-redux)
 -   [Redux-Persist](https://github.com/rt2zz/redux-persist)
--   [Lottie React Native](https://github.com/react-native-community/lottie-react-native)
 -   [Antd Mobile RN](https://github.com/ant-design/ant-design-mobile-rn)
 -   [React Native Firebase](https://github.com/invertase/react-native-firebase)
 -   [Eslint](https://eslint.org/)
--   [Mobx](https://github.com/mobxjs/mobx-react)
 
 ## :iphone: **Test**
 
