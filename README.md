@@ -1,14 +1,5 @@
 <h1 align="center"><b> Driver Booking App</b> </h1>
 
-<h1 align="center">
-  <br>
-  <kbd>
-    <img src="https://image.prntscr.com/image/YrkdAm5xSxe0MmkqrvGeJA.png" alt="Animavita" height="525" width="725">
-  </kbd>
-  <br>
-  <br><br>
-</h1>
-
 <p align="center">Have a truck and ready to take a load.? Log into your carrier app and go straight to the load board.!</p>
 
 <p align="center"><i>"How to save a life?" - The Driver Booking</i> </p>
