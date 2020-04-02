@@ -112,4 +112,4 @@ After this the Load is placed in the ‘My Jobs’ page of the carrier app, and 
 
 ## :eyes: **Version**
 - [ ] React-Native 
-- [x] Expo 35
+- [x] Expo 36
