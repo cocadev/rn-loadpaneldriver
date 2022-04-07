@@ -8,7 +8,7 @@ import {
 } from 'react-native';
 import { KeyboardAwareScrollView } from 'react-native-keyboard-aware-scroll-view';
 import Variables from '../styles/Variables';
-import StopNavigation from '../components/StopNavigation';
+import StopNavigation from './StopNavigation';
 import StopMap from './StopMap';
 import StopCustomer from './StopCustomer';
 import StopAppointment from './StopAppointment';
